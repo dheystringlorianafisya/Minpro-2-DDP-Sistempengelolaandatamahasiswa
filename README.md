@@ -1,4 +1,6 @@
 # Minpro-2-DDP-Sistempengelolaandatamahasiswa
 
-## Hendarman
-### Gloria
+## Nama: Dheystrin Gloria Nafisya
+## NIM : 2609116063
+
+
